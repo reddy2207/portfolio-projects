@@ -62,6 +62,6 @@
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: (add link)  
+- 📧 Email: jayanthjayanth332287@gmail.com
+- 💼 LinkedIn: [  ](https://www.linkedin.com/in/jayanth-reddy-072817288/)
 - 💻 GitHub: https://github.com/reddy2207
